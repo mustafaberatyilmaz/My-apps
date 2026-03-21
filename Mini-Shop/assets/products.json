@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2nd Gen)",
+    "subtitle": "Adaptive Audio.",
+    "description": "AirPods Pro 2. nesil, kişiselleştirilmiş Spatial Audio ve Adaptive Transparency sayesinde çevrenizi tam kontrol altında tutmanızı sağlar. Aktif gürültü engelleme özelliği ile müziğinizi her ortamda net duyarsınız. Şarj kutusundan 6 saat, toplamda 30 saate varan pil ömrü sunar.",
+    "price": 249.0,
+    "imageAsset": "assets/images/airpods_pro.png",
+    "spec1Label": "ANC",
+    "spec1Value": "Aktif",
+    "spec2Label": "Pil",
+    "spec2Value": "30 saat",
+    "spec3Label": "Renk",
+    "spec3Value": "Beyaz"
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max",
+    "subtitle": "Sound focused.",
+    "description": "AirPods Max, kulak üstü tasarımı ve yüksek çözünürlüklü ses deneyimiyle premium bir dinleme deneyimi sunar. Apple H1 çipi ile güçlendirilmiş aktif gürültü engelleme ve Spatial Audio desteği ile müziği sinematik bir deneyime dönüştürür.",
+    "price": 549.0,
+    "imageAsset": "assets/images/airpods_max.png",
+    "spec1Label": "ANC",
+    "spec1Value": "Premium",
+    "spec2Label": "Pil",
+    "spec2Value": "20 saat",
+    "spec3Label": "Renk",
+    "spec3Value": "5 Renk"
+  },
+  {
+    "id": 3,
+    "name": "HomePod",
+    "subtitle": "Profound sound.",
+    "description": "HomePod, odanızı dolduran güçlü ve derin ses sunar. Beaming Spatial Audio teknolojisi sayesinde müzik odanın her köşesine yayılır. Siri entegrasyonu ile akıllı ev kontrolü yapabilir, müzik, podcast ve daha fazlasını sesli komutlarla yönetebilirsiniz.",
+    "price": 299.0,
+    "imageAsset": "assets/images/homepod.png",
+    "spec1Label": "Ses",
+    "spec1Value": "Spatial",
+    "spec2Label": "Siri",
+    "spec2Value": "Entegre",
+    "spec3Label": "Renk",
+    "spec3Value": "2 Renk"
+  },
+  {
+    "id": 4,
+    "name": "HomePod Mini",
+    "subtitle": "Color-pop.",
+    "description": "HomePod Mini, 3,3 inç yüksekliğiyle küçük boyutuna rağmen 360 derece ses sunar. iPhone'unuzu yaklaştırarak müziği anında aktarabilirsiniz. Evde birden fazla HomePod Mini ile bağlı ses sistemi kurabilirsiniz. Ayrıca akıllı evinizi yönetmek için güçlü bir asistana dönüşür.",
+    "price": 99.0,
+    "imageAsset": "assets/images/homepod_mini.jpg",
+    "spec1Label": "Boyut",
+    "spec1Value": "3,3 inç",
+    "spec2Label": "Ses",
+    "spec2Value": "360 derece",
+    "spec3Label": "Renk",
+    "spec3Value": "5 Renk"
+  }
+]
